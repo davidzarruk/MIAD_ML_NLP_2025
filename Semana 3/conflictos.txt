@@ -1,0 +1,6 @@
+este archivo es para mostrar cómo funcionan los conflictos en Git:
+
+1. hola mundo
+2. cómo estás?
+3. muy bien, gracias. Todo bien, afortunadamente. Cuéntame tú cómo estás.
+4. chao
